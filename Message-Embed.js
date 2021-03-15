@@ -1,5 +1,3 @@
-    Example:
-    
     if(command === 'ping') {
         const testEmbed = new Discord.RichEmbed()
         .setColor(0x2eb2c7)
