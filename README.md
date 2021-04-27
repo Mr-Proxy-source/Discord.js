@@ -1,7 +1,7 @@
 # Discord-Visual-Studio-Code-Scripts
       Hello here is some scripts for Visual Studio Code for Discrod bots !       
                                                                                              
-                        Discord:Mr.  プロキシ#1107                                      
+                        Discord:Mr. 🕷#2066                                     
                                                                                              
                Support Server:https://discord.gg/FfC6HQdyhd                            
                                                                                           
