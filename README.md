@@ -1,10 +1,3 @@
-# Discord-Visual-Studio-Code-Scripts
-      Hello here is some scripts for Visual Studio Code for Discrod bots !       
-                                                                                             
-                        Discord:Mr. プロキシ#2066                                    
-                                                                                             
-               Support Server:https://discord.gg/FfC6HQdyhd                            
-                                                                                          
-                                                                                            
-                     Donate:noooreply.acount@gmail.com                                 
-![1200px-Visual_Studio_Code_1 35_icon svg](https://user-images.githubusercontent.com/80650301/111206175-56bb4900-85c8-11eb-9a4c-71fb7bc61224.png)
+# Discord_Bot.js scripts ! 
+## I recommend to use [Visual Studio Code](https://code.visualstudio.com/) for making discord bots!
+### Check out My [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=930051753850851359&permissions=8&scope=bot) 
